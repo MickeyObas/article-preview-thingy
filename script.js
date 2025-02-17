@@ -13,7 +13,6 @@ const shareTooltip = document.getElementById('shareTooltip');
    }else{
      cardShareFooter.style.display = 'none';
      cardFooter.style.display = 'flex';
-     cardFooterShareBtn.src = "./images/share-white.png";
    }
  })
 
